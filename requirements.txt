@@ -1,0 +1,6 @@
+discord.py
+pytube
+aiohttp
+Pillow
+llama-cpp-python
+python-dotenv 
